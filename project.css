@@ -1,0 +1,53 @@
+body{
+    background-color: #f7f9f9;
+}
+li{
+    margin: 7%;
+}
+a{
+    color: black;
+}
+
+.nvcol{/*for the first row */
+    background-color: #f7f9f9;
+}
+.topnav{
+    float: left;
+    padding: 10%;
+}
+.topnav input{ /*for search bar*/
+    width: 170%;
+}
+.dropdown{
+    margin: 3%;
+}
+.buttom{
+    border-radius: 5px;
+}
+h3{
+    margin-left: -3%;
+}
+
+.figcaption{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.circle-text {
+    display: table-cell;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: black;
+    border-style: ridge;
+    border-width: 1px;
+    background: white;
+    color: black;
+    font: 18px "open sans", arial; 
+    }
+.back-col-cir{
+    background-color: #e0e0e0;
+}
